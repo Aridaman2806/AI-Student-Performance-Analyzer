@@ -76,13 +76,7 @@ student-performance-analysis/
 - reportlab: PDF generation
 - beautifulsoup4: HTML parsing
 
-## Contributing
 
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## License
 
@@ -91,4 +85,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Acknowledgments
 
 - Google Gemini AI for providing the AI model
-- All contributors who have helped improve this project 
