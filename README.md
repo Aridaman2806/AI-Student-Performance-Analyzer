@@ -13,7 +13,7 @@ An AI-powered system that analyzes student test performance and generates detail
 ## APIs and Models Used
 
 ### Google Gemini AI
-- **Model**: `gemini-pro` (primary) with fallback to `gemini-2.0-flash`
+- **Model**: `gemini-2.0-flash`
 - **Purpose**: 
   - Initial data analysis and pattern recognition
   - Generating structured feedback
