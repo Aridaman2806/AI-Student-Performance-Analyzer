@@ -1,0 +1,7 @@
+pandas
+matplotlib
+fpdf
+google-generativeai
+python-dotenv
+reportlab
+beautifulsoup4
